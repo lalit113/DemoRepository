@@ -1,6 +1,6 @@
 public class Demo {
 	public void greet() {
-		// Ajay
 		System.out.println("Hi!!!!! Good evening Everyone");
+		System.out.printn("Have a good day :) ");
 	}
 }
